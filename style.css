@@ -37,7 +37,7 @@ section > div{
     position: relative;
 }
 .meter::after{
-    --meter-amount:50;
+    /*--meter-amount:50;*/
     content: "";
     position: absolute;
     bottom: 0;
